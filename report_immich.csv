@@ -1,0 +1,6 @@
+date,Lines of code (LOC),TypeScript files,LOC / TypeScript files,class_declaration,interface_declaration,type_alias_declaration,any,unknown,untyped,typed,const,let,arrow_function,method_definition,function_declaration,function_expression,if_statement,ternary_expression,switch_statement,for_in_statement,while_statement,throw_statement,try_statement,await_expression,comment,generator_function_declaration,generator_function,for_statement,do_statement
+2022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023,22153,326,67.95398773006134,232,91,30,287,9,1515,162,1477,247,746,643,61,44,399,104,2,39,4,108,45,759,1233,0,0,0,0
+2024,85827,643,133.47900466562987,480,610,113,772,16,4606,449,4367,918,3191,2030,76,129,1280,445,34,163,5,173,58,3624,5356,1,1,9,0
+2025,82461,783,105.31417624521073,631,236,435,125,59,4447,633,4785,584,4288,1711,327,8,1344,242,36,282,8,192,106,4905,906,5,2,19,1
+2026,132713,978,135.69836400817996,744,225,658,244,126,8381,942,9115,689,7256,2134,568,9,2107,426,72,462,19,313,179,8664,1755,6,4,57,1
